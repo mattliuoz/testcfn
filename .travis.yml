@@ -27,5 +27,4 @@ after_success:
   - echo "YAML linted"
 
 notifications:
-  slack: chefio:bLaHbLaHbLaHbLaHbLaHbLaH
   email: false
