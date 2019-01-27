@@ -1,0 +1,2 @@
+MyS3Bucket123:
+    Type: AWS::S3::Bucket
