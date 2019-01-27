@@ -1,2 +1,2 @@
-MyS3Bucket123:
+MattMattMattBucket:
     Type: AWS::S3::Bucket
